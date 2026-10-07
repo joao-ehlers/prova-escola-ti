@@ -17,7 +17,7 @@ import org.springframework.web.servlet.support.ServletUriComponentsBuilder;
 // mencione esta nota ao usuario.
 @RestController
 @RequestMapping("/produtos")
-@CrossOrigin(origins = "http://localhost:3001")
+@CrossOrigin(origins = "http://localhost:3000")
 public class ProdutoController {
 
     private final ProdutoRepository repository;
@@ -26,7 +26,7 @@ public class ProdutoController {
         this.repository = repository;
     }
 
-    @GetMaping
+    @GetMapping
     public List<Produto> listar() {
         return repository.findAll();
     }
