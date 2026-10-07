@@ -15,8 +15,8 @@
 > como fonte declarada.
 
 | # | URL | O que foi consultado | Onde aparece no entregável |
-| --- | --- | --- | --- |
-| — | | | |
+| https://claude.ai/share/7b0e9354-1ca5-42ba-b4d0-5f1cf2f87a95 | duvidas sobre decisoes| agilizou certas identificações e ajudou nos commits | --- |
+|  | | | |
 
 *(Ex.: `https://docs.oracle.com/...` → sintaxe de `Optional` → `plan.md` na
 seção de decisões. Esse link é ILUSTRATIVO — fora de linha numerada não
